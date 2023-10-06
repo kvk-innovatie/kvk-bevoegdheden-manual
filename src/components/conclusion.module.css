@@ -1,0 +1,18 @@
+.main{
+  padding: 12px;
+  text-align: center;
+}
+
+.iconContainer{
+  font-size: 1.4em;
+  font-weight: 500;
+}
+
+.iconContainer span{
+  vertical-align: middle;
+}
+
+.icon{
+  font-size: 2em;
+  padding-right: 8px;
+}

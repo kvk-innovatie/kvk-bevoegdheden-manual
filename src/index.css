@@ -1,0 +1,228 @@
+@font-face {
+  font-family: Ciutadella;
+  src: url(https://static.kvk.nl/assets/fonts/Ciutadella/35A006_0_0.woff2) format("woff2"),url(https://static.kvk.nl/assets/fonts/Ciutadella/35A006_0_0.woff) format("woff");
+  font-weight: 300;
+  font-style: normal
+}
+
+@font-face {
+  font-family: Ciutadella;
+  src: url(https://static.kvk.nl/assets/fonts/Ciutadella/35A006_2_0.woff2) format("woff2"),url(https://static.kvk.nl/assets/fonts/Ciutadella/35A006_2_0.woff) format("woff");
+  font-weight: 400;
+  font-style: normal
+}
+
+@font-face {
+  font-family: Ciutadella;
+  src: url(https://static.kvk.nl/assets/fonts/Ciutadella/CiutadellaRounded-SmBd.woff2) format("woff2"),url(https://static.kvk.nl/assets/fonts/Ciutadella/CiutadellaRounded-SmBd.woff) format("woff");
+  font-weight: 600;
+  font-style: normal
+}
+
+@font-face {
+  font-family: Ciutadella;
+  src: url(https://static.kvk.nl/assets/fonts/Ciutadella/35A006_1_0.woff2) format("woff2"),url(https://static.kvk.nl/assets/fonts/Ciutadella/35A006_1_0.woff) format("woff");
+  font-weight: 700;
+  font-style: normal
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(https://static.kvk.nl/assets/fonts/Roboto/roboto-v18-latin-300.woff2) format('woff2'),
+    url(https://static.kvk.nl/assets/fonts/Roboto/roboto-v18-latin-300.woff) format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(https://static.kvk.nl/assets/fonts/Roboto/roboto-v18-latin-regular.woff2) format('woff2'),
+    url(https://static.kvk.nl/assets/fonts/Roboto/roboto-v18-latin-regular.woff) format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(https://static.kvk.nl/assets/fonts/Roboto/roboto-v18-latin-500.woff2) format('woff2'),
+    url(https://static.kvk.nl/assets/fonts/Roboto/roboto-v18-latin-500.woff) format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #343434;
+  font-family: Roboto;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.4rem;
+}
+
+
+@media (min-width: 48em) {
+  body {
+    /* font-size: 1.125rem; */
+    /* line-height: 1.75rem; */
+  }
+}
+
+h1,h2,h3,h4,h5 {
+  font-family: Ciutadella;
+  font-weight: 600;
+  font-variant-ligatures: none
+}
+
+h1 {
+  color: #00526e;
+  font-size: 2.5rem;
+  line-height: 3rem
+}
+
+@media (min-width: 48em) {
+  h1 {
+      font-size:3rem;
+      line-height: 3.5rem
+  }
+}
+
+h2 {
+  color: #00526e;
+  font-size: 1.75rem;
+  line-height: 2rem
+}
+
+@media (min-width: 48em) {
+  h2 {
+      font-size:2rem;
+      line-height: 2.25rem
+  }
+}
+
+h3 {
+  color: #343434;
+  font-size: 1.5rem;
+  line-height: 1.75rem
+}
+
+@media (min-width: 48em) {
+  h3 {
+      font-size:1.75rem;
+      line-height: 2rem
+  }
+}
+
+h4 {
+  color: #343434;
+  font-size: 1.375rem;
+  line-height: 1.75rem
+}
+
+@media (min-width: 48em) {
+  h4 {
+      font-size:1.5rem;
+      line-height: 1.75rem
+  }
+}
+
+h5 {
+  color: #343434;
+  font-size: 1.25rem;
+  line-height: 1.5rem
+}
+
+@media (min-width: 48em) {
+  h5 {
+      font-size:1.375rem;
+      line-height: 1.75rem
+  }
+}
+
+a {
+  text-decoration: underline;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+a {
+  color: #007cc1
+}
+
+a:hover {
+  color: #00526e
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,body,#root{
+  height: 100%;
+  overflow: auto;
+}
+
+#root{
+  display: flex;
+}
+
+
+
+/* 
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 0.9em;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  }
+
+html,body,#root{
+  height: 100%;
+}
+
+#root{
+  display: flex;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul{
+  padding-left: 20px;
+} */

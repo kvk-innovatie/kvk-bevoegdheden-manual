@@ -1,0 +1,17 @@
+.main {
+  padding: 12px 24px;
+}
+
+.main li {
+  color: #383838;
+}
+.main li strong {
+  color: black;
+  font-weight: 600;
+}
+.main code{
+  font-size: 0.9em;
+}
+.main h3{
+  word-break: break-word;
+}

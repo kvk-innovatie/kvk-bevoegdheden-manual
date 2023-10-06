@@ -1,0 +1,149 @@
+.main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background-color: #efefef;
+  max-width: 1500px;
+  width: 100%;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.wrapper{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 12px 0;
+  max-width: 1300px;
+  width: 100%;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.selectContainer {
+  padding: 12px 0;
+}
+
+.selectContainer select {
+  height: 36px;
+  width: 100%;
+  border-color: silver;
+  font-size: 1.1em;
+  padding: 0 6px;
+}
+
+.contentContainer {
+  flex: 1;
+  display: flex;
+  overflow: auto;
+}
+
+
+.contentContainer > div {
+  width: 50%;
+}
+
+/* @media (orientation: landscape) {
+  .contentContainer {
+    flex-direction: row;
+  }
+}
+
+@media (orientation: portrait) {
+  .contentContainer {
+    flex-direction: column-reverse;
+  }
+
+  .contentContainer > div {
+    width: 100%;
+  }
+} */
+
+.leftContainer {
+  margin: 0 12px 0 0;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-between; */
+}
+
+.rightContainer {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-between; */
+}
+
+.jsonContainer {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border: 1px solid silver;
+  overflow: auto;
+
+  /* box-shadow: inset 1px 1px 4px rgb(0 0 0 / 20%); */
+}
+
+.infoContainer {
+  flex: 1;
+  /* height: 248px; */
+  /* margin-top: 12px; */
+  overflow: auto;
+  border: 1px solid silver;
+  background-color: white;
+  /* box-shadow: inset 1px 1px 4px rgb(0 0 0 / 20%); */
+}
+
+.inschrijvingContainer {
+  /* width: 50%; */
+  flex: 1;
+  overflow: auto;
+  border: 1px solid silver;
+  background-color: white;
+  /* box-shadow: inset 1px 1px 4px rgb(0 0 0 / 20%); */
+}
+
+.path {
+  padding: 2px 6px;
+  height: 26px;
+  font-size: 0.9em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.xml {
+  white-space: pre-wrap;
+  padding: 12px;
+}
+
+.conclusionManual {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  background-color: white;
+  overflow: auto;
+  white-space: pre-wrap;
+  background-color: #f1f1f1;
+}
+
+.tabs {
+  display: flex;
+}
+
+.tab {
+  padding: 8px 16px;
+  border-top: 1px solid silver;
+  border-left: 1px solid silver;
+  border-right: 1px solid silver;
+  position: relative;
+  bottom: -1px;
+  cursor: pointer;
+}
+
+.tabSelected {
+  background-color: white;
+  cursor: inherit;
+  /* box-shadow: inset 1px 1px 4px rgb(0 0 0 / 20%); */
+}

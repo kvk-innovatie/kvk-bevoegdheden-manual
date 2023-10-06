@@ -1,0 +1,2779 @@
+[
+  {
+    "kvkNummer": "90000021",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "14-12-1979",
+      "voornamen": "Kerry",
+      "geslachtsnaam": "Rone",
+      "type": "Bevoegde"
+    },
+    "id": "id-0"
+  },
+  {
+    "kvkNummer": "90000023",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "14-12-1979",
+      "voornamen": "Kerry",
+      "geslachtsnaam": "Rone",
+      "type": "Bevoegde"
+    },
+    "id": "id-0a"
+  },
+  {
+    "kvkNummer": "90000021",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "09-07-1969",
+      "voornamen": "Francisca",
+      "geslachtsnaam": "Cupit",
+      "type": "Gemachtigde"
+    },
+    "id": "id-1"
+  },
+  {
+    "kvkNummer": "90000022",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "09-07-1969",
+      "voornamen": "Francisca",
+      "geslachtsnaam": "Copit",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Beperkte volmacht"
+    },
+    "id": "id-1a"
+  },
+  {
+    "kvkNummer": "90000064",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "22-02-1994",
+      "voornamen": "Carlos",
+      "geslachtsnaam": "Sadowski",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Onbeperkt bevoegd"
+    },
+    "id": "id-2"
+  },
+  {
+    "kvkNummer": "90000064",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "05-04-1979",
+      "voornamen": "Wesley",
+      "geslachtsnaam": "Seifert",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Onbeperkt bevoegd"
+    },
+    "id": "id-3"
+  },
+  {
+    "kvkNummer": "90000072",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "28-03-1946",
+      "voornamen": "Alone",
+      "geslachtsnaam": "Wingert",
+      "type": "Bevoegde"
+    },
+    "id": "id-4"
+  },
+  {
+    "kvkNummer": "90000110",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "30-03-1976",
+      "voornamen": "Sindy",
+      "geslachtsnaam": "Schrum",
+      "type": "Bevoegde"
+    },
+    "id": "id-5"
+  },
+  {
+    "kvkNummer": "90000129",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Onderlinge Waarborg Maatschappij",
+    "functionaris": {
+      "geboortedatum": "30-11-1984",
+      "voornamen": "Hettie",
+      "geslachtsnaam": "Hamp",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-6"
+  },
+  {
+    "kvkNummer": "90000129",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Onderlinge Waarborg Maatschappij",
+    "functionaris": {
+      "geboortedatum": "22-01-1982",
+      "voornamen": "Gwenn",
+      "geslachtsnaam": "Hufnagel",
+      "voorvoegselGeslachtsnaam": "van der",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-7"
+  },
+  {
+    "kvkNummer": "90000129",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Onderlinge Waarborg Maatschappij",
+    "functionaris": {
+      "geboortedatum": "19-10-1963",
+      "voornamen": "Lessie",
+      "geslachtsnaam": "Priestly",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-8"
+  },
+  {
+    "kvkNummer": "90000129",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Onderlinge Waarborg Maatschappij",
+    "functionaris": {
+      "geboortedatum": "12-01-1942",
+      "voornamen": "Pinkie",
+      "geslachtsnaam": "Ashley",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-9"
+  },
+  {
+    "kvkNummer": "90000129",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Onderlinge Waarborg Maatschappij",
+    "functionaris": {
+      "geboortedatum": "08-08-1974",
+      "voornamen": "Earle",
+      "geslachtsnaam": "Settle",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-10"
+  },
+  {
+    "kvkNummer": "90000129",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Onderlinge Waarborg Maatschappij",
+    "functionaris": {
+      "geboortedatum": "28-12-1979",
+      "voornamen": "Adam",
+      "geslachtsnaam": "Wambach - Wambach",
+      "voorvoegselGeslachtsnaam": "van der",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-11"
+  },
+  {
+    "kvkNummer": "90000129",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Onderlinge Waarborg Maatschappij",
+    "functionaris": {
+      "geboortedatum": "10-08-1992",
+      "voornamen": "Isaiah",
+      "geslachtsnaam": "Spivey - Spivey",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-12"
+  },
+  {
+    "kvkNummer": "90000250",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "18-06-1988",
+      "voornamen": "Annalisa",
+      "geslachtsnaam": "Ducharme",
+      "voorvoegselGeslachtsnaam": "van der",
+      "type": "Bevoegde"
+    },
+    "id": "id-13"
+  },
+  {
+    "kvkNummer": "90000250",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "04-04-1972",
+      "voornamen": "Cristobal",
+      "geslachtsnaam": "Muench",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Volledige volmacht"
+    },
+    "id": "id-14"
+  },
+  {
+    "kvkNummer": "90000293",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "03-01-1946",
+      "voornamen": "Alicia",
+      "geslachtsnaam": "Bier",
+      "type": "Bevoegde"
+    },
+    "id": "id-15"
+  },
+  {
+    "kvkNummer": "90000358",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "11-11-1977",
+      "voornamen": "Elwanda",
+      "geslachtsnaam": "Heilig",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-16"
+  },
+  {
+    "kvkNummer": "90000358",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "08-09-1967",
+      "voornamen": "Lance",
+      "geslachtsnaam": "Shotts",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-17"
+  },
+  {
+    "kvkNummer": "90000358",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "04-05-1965",
+      "voornamen": "Cornell",
+      "geslachtsnaam": "Barge",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Beperkte volmacht"
+    },
+    "id": "id-18"
+  },
+  {
+    "kvkNummer": "90000358",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "09-06-1944",
+      "voornamen": "Tonja",
+      "geslachtsnaam": "Planck",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-19"
+  },
+  {
+    "kvkNummer": "90000471",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Coöperatie",
+    "functionaris": {
+      "geboortedatum": "02-06-1972",
+      "voornamen": "Jerald",
+      "geslachtsnaam": "Littell",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-20"
+  },
+  {
+    "kvkNummer": "90000471",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Coöperatie",
+    "functionaris": {
+      "geboortedatum": "06-09-1970",
+      "voornamen": "Sandy",
+      "geslachtsnaam": "Gryder - van Gryder",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-21"
+  },
+  {
+    "kvkNummer": "90000471",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Coöperatie",
+    "functionaris": {
+      "geboortedatum": "09-01-1976",
+      "voornamen": "Ethan",
+      "geslachtsnaam": "Cobb",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-22"
+  },
+  {
+    "kvkNummer": "90000471",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Coöperatie",
+    "functionaris": {
+      "geboortedatum": "08-03-1983",
+      "voornamen": "Amparo",
+      "geslachtsnaam": "Madril",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-23"
+  },
+  {
+    "kvkNummer": "90000471",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Coöperatie",
+    "functionaris": {
+      "geboortedatum": "28-08-1980",
+      "voornamen": "Kathaleen",
+      "geslachtsnaam": "Weise - den Weise",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-24"
+  },
+  {
+    "kvkNummer": "90000471",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Coöperatie",
+    "functionaris": {
+      "geboortedatum": "14-12-1976",
+      "voornamen": "Socorro",
+      "geslachtsnaam": "Papenfuss",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-25"
+  },
+  {
+    "kvkNummer": "90000501",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "27-06-1963",
+      "voornamen": "Judy",
+      "geslachtsnaam": "Faucher",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-26"
+  },
+  {
+    "kvkNummer": "90000668",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "16-10-1964",
+      "voornamen": "Brittanie",
+      "geslachtsnaam": "Hoke",
+      "type": "Bevoegde"
+    },
+    "id": "id-27"
+  },
+  {
+    "kvkNummer": "90000811",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "24-11-1954",
+      "voornamen": "Elida",
+      "geslachtsnaam": "Henkle",
+      "voorvoegselGeslachtsnaam": "van der",
+      "type": "Bevoegde"
+    },
+    "id": "id-28"
+  },
+  {
+    "kvkNummer": "90000811",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "14-04-1985",
+      "voornamen": "Christeen",
+      "geslachtsnaam": "Tuner",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Volledige volmacht"
+    },
+    "id": "id-29"
+  },
+  {
+    "kvkNummer": "90000897",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "20-12-1942",
+      "voornamen": "Loriann",
+      "geslachtsnaam": "Stoehr",
+      "type": "Bevoegde"
+    },
+    "id": "id-30"
+  },
+  {
+    "kvkNummer": "90000900",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Europees economisch samenwerkingsverband",
+    "functionaris": {
+      "geboortedatum": "11-10-1985",
+      "voornamen": "Carolann",
+      "geslachtsnaam": "Dryden",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-31"
+  },
+  {
+    "kvkNummer": "90000900",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Europees economisch samenwerkingsverband",
+    "functionaris": {
+      "geboortedatum": "08-04-1975",
+      "voornamen": "Kera",
+      "geslachtsnaam": "Paro",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-32"
+  },
+  {
+    "kvkNummer": "90000952",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "30-11-1984",
+      "voornamen": "Hettie",
+      "geslachtsnaam": "Homp",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-32a"
+  },
+  {
+    "kvkNummer": "90001117",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "26-11-1952",
+      "voornamen": "Alida",
+      "geslachtsnaam": "Martineau - van de Martineau",
+      "voorvoegselGeslachtsnaam": "van der",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-33"
+  },
+  {
+    "kvkNummer": "90001117",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "16-05-1949",
+      "voornamen": "Marni",
+      "geslachtsnaam": "Marques",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-34"
+  },
+  {
+    "kvkNummer": "90001117",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "19-01-1988",
+      "voornamen": "Cira",
+      "geslachtsnaam": "Setser - Setser",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-35"
+  },
+  {
+    "kvkNummer": "90001117",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "08-11-1980",
+      "voornamen": "Ernie",
+      "geslachtsnaam": "Geer",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-36"
+  },
+  {
+    "kvkNummer": "90001117",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "21-10-1976",
+      "voornamen": "Catarina",
+      "geslachtsnaam": "Brayton - Brayton",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-37"
+  },
+  {
+    "kvkNummer": "90001117",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "29-11-1986",
+      "voornamen": "Bailey",
+      "geslachtsnaam": "Dematteo - Dematteo",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-38"
+  },
+  {
+    "kvkNummer": "90001141",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Coöperatie",
+    "functionaris": {
+      "geboortedatum": "02-04-1969",
+      "voornamen": "Chassidy",
+      "geslachtsnaam": "Gullick",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-39"
+  },
+  {
+    "kvkNummer": "90001141",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Coöperatie",
+    "functionaris": {
+      "geboortedatum": "07-05-1995",
+      "voornamen": "Alita",
+      "geslachtsnaam": "Kearl",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-40"
+  },
+  {
+    "kvkNummer": "90001206",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Onderlinge Waarborg Maatschappij",
+    "functionaris": {
+      "geboortedatum": "07-01-1941",
+      "voornamen": "Courtney",
+      "geslachtsnaam": "Polston",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-41"
+  },
+  {
+    "kvkNummer": "90001206",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Onderlinge Waarborg Maatschappij",
+    "functionaris": {
+      "geboortedatum": "17-09-1988",
+      "voornamen": "Denisha",
+      "geslachtsnaam": "Risher",
+      "voorvoegselGeslachtsnaam": "de",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-42"
+  },
+  {
+    "kvkNummer": "90001206",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Onderlinge Waarborg Maatschappij",
+    "functionaris": {
+      "geboortedatum": "19-04-1955",
+      "voornamen": "Ty",
+      "geslachtsnaam": "Belfiore",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-43"
+  },
+  {
+    "kvkNummer": "90001427",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "21-03-1940",
+      "voornamen": "Leda",
+      "geslachtsnaam": "Beus",
+      "type": "Bevoegde"
+    },
+    "id": "id-44"
+  },
+  {
+    "kvkNummer": "90001443",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "27-04-1956",
+      "voornamen": "Chun",
+      "geslachtsnaam": "Mendicino",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-45"
+  },
+  {
+    "kvkNummer": "90001559",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Maatschap",
+    "functionaris": {
+      "geboortedatum": "08-05-1960",
+      "voornamen": "Mallie",
+      "geslachtsnaam": "Gaines",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-46"
+  },
+  {
+    "kvkNummer": "90001559",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Maatschap",
+    "functionaris": {
+      "geboortedatum": "22-08-1975",
+      "voornamen": "Kari",
+      "geslachtsnaam": "Beaman - Beaman",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-47"
+  },
+  {
+    "kvkNummer": "90001559",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Maatschap",
+    "functionaris": {
+      "geboortedatum": "21-03-1941",
+      "voornamen": "Muriel",
+      "geslachtsnaam": "Runner",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-48"
+  },
+  {
+    "kvkNummer": "90001575",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Maatschap",
+    "functionaris": {
+      "geboortedatum": "05-11-1980",
+      "voornamen": "Pearline",
+      "geslachtsnaam": "Montoya - Montoya",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Onbeperkt bevoegd"
+    },
+    "id": "id-49"
+  },
+  {
+    "kvkNummer": "90001575",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Maatschap",
+    "functionaris": {
+      "geboortedatum": "22-01-1963",
+      "voornamen": "Larisa",
+      "geslachtsnaam": "Casterline",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Onbeperkt bevoegd"
+    },
+    "id": "id-50"
+  },
+  {
+    "kvkNummer": "90001656",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Maatschap",
+    "functionaris": {
+      "geboortedatum": "18-09-1974",
+      "voornamen": "Marla",
+      "geslachtsnaam": "Marsland",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-51"
+  },
+  {
+    "kvkNummer": "90001656",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Maatschap",
+    "functionaris": {
+      "geboortedatum": "31-01-1954",
+      "voornamen": "Kenny",
+      "geslachtsnaam": "Hajek",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-52"
+  },
+  {
+    "kvkNummer": "90001788",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "14-04-1952",
+      "voornamen": "Irma",
+      "geslachtsnaam": "Keppler",
+      "type": "Bevoegde"
+    },
+    "id": "id-53"
+  },
+  {
+    "kvkNummer": "90001788",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "16-01-1943",
+      "voornamen": "Isaiah",
+      "geslachtsnaam": "Spivey",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Volledige volmacht"
+    },
+    "id": "id-54"
+  },
+  {
+    "kvkNummer": "90001796",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Europese naamloze vennootschap (SE)",
+    "functionaris": {
+      "geboortedatum": "04-10-1942",
+      "voornamen": "Murray",
+      "geslachtsnaam": "Sand",
+      "voorvoegselGeslachtsnaam": "van den",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-55"
+  },
+  {
+    "kvkNummer": "90001796",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Europese naamloze vennootschap (SE)",
+    "functionaris": {
+      "geboortedatum": "29-06-1977",
+      "voornamen": "Dahlia",
+      "geslachtsnaam": "Rux",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-56"
+  },
+  {
+    "kvkNummer": "90001796",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Europese naamloze vennootschap (SE)",
+    "functionaris": {
+      "geboortedatum": "31-03-1975",
+      "voornamen": "Laveta",
+      "geslachtsnaam": "Strait",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-57"
+  },
+  {
+    "kvkNummer": "90001796",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Europese naamloze vennootschap (SE)",
+    "functionaris": {
+      "geboortedatum": "10-02-1957",
+      "voornamen": "Tammara",
+      "geslachtsnaam": "Golub",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-58"
+  },
+  {
+    "kvkNummer": "90001796",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Europese naamloze vennootschap (SE)",
+    "functionaris": {
+      "geboortedatum": "21-06-1949",
+      "voornamen": "Maye",
+      "geslachtsnaam": "Basile",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-59"
+  },
+  {
+    "kvkNummer": "90001818",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "06-10-1964",
+      "voornamen": "Margareta",
+      "geslachtsnaam": "Wilbanks",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-60"
+  },
+  {
+    "kvkNummer": "90001818",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "02-08-1995",
+      "voornamen": "Sue",
+      "geslachtsnaam": "Lister - Lister",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-61"
+  },
+  {
+    "kvkNummer": "90001834",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "21-10-1969",
+      "voornamen": "Mallie",
+      "geslachtsnaam": "Gaines",
+      "voorvoegselGeslachtsnaam": "de",
+      "type": "Bevoegde"
+    },
+    "id": "id-62"
+  },
+  {
+    "kvkNummer": "90001931",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Coöperatie",
+    "functionaris": {
+      "geboortedatum": "20-08-1958",
+      "voornamen": "Enriqueta",
+      "geslachtsnaam": "Carrico",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-63"
+  },
+  {
+    "kvkNummer": "90001931",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Coöperatie",
+    "functionaris": {
+      "geboortedatum": "21-05-1973",
+      "voornamen": "Lavonia",
+      "geslachtsnaam": "Lubinski",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-64"
+  },
+  {
+    "kvkNummer": "90001931",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Coöperatie",
+    "functionaris": {
+      "geboortedatum": "13-06-1968",
+      "voornamen": "Ivette",
+      "geslachtsnaam": "Snelling",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-65"
+  },
+  {
+    "kvkNummer": "90001966",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "24-05-1955",
+      "voornamen": "Britany",
+      "geslachtsnaam": "Terrill",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-66"
+  },
+  {
+    "kvkNummer": "90001966",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "18-04-1960",
+      "voornamen": "Ezra",
+      "geslachtsnaam": "Bynoe",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-67"
+  },
+  {
+    "kvkNummer": "90001966",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "29-01-1981",
+      "voornamen": "Easter",
+      "geslachtsnaam": "Mcroy",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-68"
+  },
+  {
+    "kvkNummer": "90001966",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "12-02-1959",
+      "voornamen": "Georgiana",
+      "geslachtsnaam": "Gore",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-69"
+  },
+  {
+    "kvkNummer": "90001966",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "19-08-1947",
+      "voornamen": "Karissa",
+      "geslachtsnaam": "Calvin",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-70"
+  },
+  {
+    "kvkNummer": "90001974",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Maatschap",
+    "functionaris": {
+      "geboortedatum": "17-08-1973",
+      "voornamen": "Almeta",
+      "geslachtsnaam": "Washinton",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Onbeperkt bevoegd"
+    },
+    "id": "id-71"
+  },
+  {
+    "kvkNummer": "90001974",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Maatschap",
+    "functionaris": {
+      "geboortedatum": "02-06-1943",
+      "voornamen": "Zandra",
+      "geslachtsnaam": "Steadman - van Steadman",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Onbeperkt bevoegd"
+    },
+    "id": "id-72"
+  },
+  {
+    "kvkNummer": "90001982",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "19-11-1980",
+      "voornamen": "Tammi",
+      "geslachtsnaam": "Naples",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-73"
+  },
+  {
+    "kvkNummer": "90002164",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Naamloze Vennootschap",
+    "functionaris": {
+      "geboortedatum": "27-12-1941",
+      "voornamen": "Santina",
+      "geslachtsnaam": "Kesselman",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-74"
+  },
+  {
+    "kvkNummer": "90002245",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "02-04-1960",
+      "voornamen": "Logan",
+      "geslachtsnaam": "Kale",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-75"
+  },
+  {
+    "kvkNummer": "90002245",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "26-04-1947",
+      "voornamen": "Willetta",
+      "geslachtsnaam": "Robey",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-76"
+  },
+  {
+    "kvkNummer": "90002245",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "25-04-1977",
+      "voornamen": "Alane",
+      "geslachtsnaam": "Wingert",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-77"
+  },
+  {
+    "kvkNummer": "90002245",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "27-07-1977",
+      "voornamen": "Cherise",
+      "geslachtsnaam": "Cattaneo - van der Cattaneo",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-78"
+  },
+  {
+    "kvkNummer": "90002245",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "27-10-1978",
+      "voornamen": "Agustin",
+      "geslachtsnaam": "Bloomer",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-79"
+  },
+  {
+    "kvkNummer": "90002245",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "16-05-1984",
+      "voornamen": "Renda",
+      "geslachtsnaam": "Norwood",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-80"
+  },
+  {
+    "kvkNummer": "90002245",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "08-01-1961",
+      "voornamen": "Hisako",
+      "geslachtsnaam": "Litwin - van de Litwin",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-81"
+  },
+  {
+    "kvkNummer": "90002245",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "04-12-1964",
+      "voornamen": "Marvella",
+      "geslachtsnaam": "Tynes",
+      "voorvoegselGeslachtsnaam": "van der",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-82"
+  },
+  {
+    "kvkNummer": "90002377",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "24-12-1981",
+      "voornamen": "Lanelle",
+      "geslachtsnaam": "Buechner",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-83"
+  },
+  {
+    "kvkNummer": "90002377",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "05-07-1972",
+      "voornamen": "Dewayne",
+      "geslachtsnaam": "Weisner",
+      "voorvoegselGeslachtsnaam": "von",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-84"
+  },
+  {
+    "kvkNummer": "90002466",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Overige Privaatrechtelijke Rechtspersoon",
+    "functionaris": {
+      "geboortedatum": "06-04-1982",
+      "voornamen": "Abel",
+      "geslachtsnaam": "Seville - Seville",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-85"
+  },
+  {
+    "kvkNummer": "90002466",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Overige Privaatrechtelijke Rechtspersoon",
+    "functionaris": {
+      "geboortedatum": "26-02-1982",
+      "voornamen": "Adrianna",
+      "geslachtsnaam": "Okafor",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-86"
+  },
+  {
+    "kvkNummer": "90002466",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Overige Privaatrechtelijke Rechtspersoon",
+    "functionaris": {
+      "geboortedatum": "08-08-1961",
+      "voornamen": "Dorthey",
+      "geslachtsnaam": "Linville",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-87"
+  },
+  {
+    "kvkNummer": "90002512",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "01-12-1996",
+      "voornamen": "Jami",
+      "geslachtsnaam": "Rother",
+      "type": "Bevoegde"
+    },
+    "id": "id-88"
+  },
+  {
+    "kvkNummer": "90002539",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "17-11-1943",
+      "voornamen": "Kam",
+      "geslachtsnaam": "Schwenk",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-89"
+  },
+  {
+    "kvkNummer": "90002539",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "16-06-1986",
+      "voornamen": "Freida",
+      "geslachtsnaam": "Follansbee - Follansbee",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-90"
+  },
+  {
+    "kvkNummer": "90002547",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "22-05-1970",
+      "voornamen": "Otha",
+      "geslachtsnaam": "Bing",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-91"
+  },
+  {
+    "kvkNummer": "90002547",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "05-05-1956",
+      "voornamen": "Wilson",
+      "geslachtsnaam": "Lovell",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-92"
+  },
+  {
+    "kvkNummer": "90002598",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "15-03-1974",
+      "voornamen": "Rob",
+      "geslachtsnaam": "Gauntt",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-93"
+  },
+  {
+    "kvkNummer": "90002598",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "18-10-1996",
+      "voornamen": "Reanna",
+      "geslachtsnaam": "Beitz",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-94"
+  },
+  {
+    "kvkNummer": "90002679",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "23-11-1947",
+      "voornamen": "Lavada",
+      "geslachtsnaam": "Mcalexander",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-95"
+  },
+  {
+    "kvkNummer": "90002679",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "29-08-1956",
+      "voornamen": "Roy",
+      "geslachtsnaam": "Lipinski",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-96"
+  },
+  {
+    "kvkNummer": "90002679",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "28-06-1956",
+      "voornamen": "Audrie",
+      "geslachtsnaam": "Reller",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-97"
+  },
+  {
+    "kvkNummer": "90002679",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "18-07-1957",
+      "voornamen": "Mikki",
+      "geslachtsnaam": "Luevano",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-98"
+  },
+  {
+    "kvkNummer": "90002679",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "21-09-1961",
+      "voornamen": "Reginia",
+      "geslachtsnaam": "Crissman",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-99"
+  },
+  {
+    "kvkNummer": "90002687",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "03-06-1964",
+      "voornamen": "Wei",
+      "geslachtsnaam": "Winkleman",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-100"
+  },
+  {
+    "kvkNummer": "90002695",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "22-04-1988",
+      "voornamen": "Derick",
+      "geslachtsnaam": "Awad - Awad",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Onbeperkt bevoegd"
+    },
+    "id": "id-101"
+  },
+  {
+    "kvkNummer": "90002695",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "01-12-1941",
+      "voornamen": "Arianne",
+      "geslachtsnaam": "Walcott",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Onbeperkt bevoegd"
+    },
+    "id": "id-102"
+  },
+  {
+    "kvkNummer": "90002768",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "23-02-1960",
+      "voornamen": "Anderson",
+      "geslachtsnaam": "Petit",
+      "voorvoegselGeslachtsnaam": "van den",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-103"
+  },
+  {
+    "kvkNummer": "90002768",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "10-06-1995",
+      "voornamen": "Kandace",
+      "geslachtsnaam": "Garmany - Garmany",
+      "voorvoegselGeslachtsnaam": "van den",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-104"
+  },
+  {
+    "kvkNummer": "90002946",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging van Eigenaars",
+    "functionaris": {
+      "geboortedatum": "16-08-1948",
+      "voornamen": "Dann",
+      "geslachtsnaam": "Hebb",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-105"
+  },
+  {
+    "kvkNummer": "90003020",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "25-11-1973",
+      "voornamen": "Jerrold",
+      "geslachtsnaam": "Northern",
+      "type": "Bevoegde"
+    },
+    "id": "id-106"
+  },
+  {
+    "kvkNummer": "90003039",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Coöperatie",
+    "functionaris": {
+      "geboortedatum": "01-04-1964",
+      "voornamen": "Nigel",
+      "geslachtsnaam": "Covey - Covey",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-107"
+  },
+  {
+    "kvkNummer": "90003187",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "07-08-1965",
+      "voornamen": "Albert",
+      "geslachtsnaam": "Haddad",
+      "type": "Bevoegde"
+    },
+    "id": "id-108"
+  },
+  {
+    "kvkNummer": "90003233",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "16-04-1957",
+      "voornamen": "Nancie",
+      "geslachtsnaam": "Holding",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Beperkte volmacht"
+    },
+    "id": "id-109"
+  },
+  {
+    "kvkNummer": "90003233",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "05-12-1954",
+      "voornamen": "Cierra",
+      "geslachtsnaam": "Boese",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Beperkte volmacht"
+    },
+    "id": "id-110"
+  },
+  {
+    "kvkNummer": "90003233",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "09-09-1940",
+      "voornamen": "Alice",
+      "geslachtsnaam": "Courser",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Beperkte volmacht"
+    },
+    "id": "id-111"
+  },
+  {
+    "kvkNummer": "90003233",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "04-09-1983",
+      "voornamen": "Christeen",
+      "geslachtsnaam": "Tuner",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Beperkte volmacht"
+    },
+    "id": "id-112"
+  },
+  {
+    "kvkNummer": "90003233",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "07-12-1981",
+      "voornamen": "Arvilla",
+      "geslachtsnaam": "Catanzaro - Catanzaro",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-113"
+  },
+  {
+    "kvkNummer": "90003233",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "14-05-1993",
+      "voornamen": "Pamelia",
+      "geslachtsnaam": "Hixon",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-114"
+  },
+  {
+    "kvkNummer": "90003234",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "16-04-1957",
+      "voornamen": "Noncie",
+      "geslachtsnaam": "Holding",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Volledige volmacht"
+    },
+    "id": "id-109a"
+  },
+  {
+    "kvkNummer": "90003268",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "15-12-1962",
+      "voornamen": "Otelia",
+      "geslachtsnaam": "England",
+      "voorvoegselGeslachtsnaam": "der",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-115"
+  },
+  {
+    "kvkNummer": "90003268",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "16-04-1986",
+      "voornamen": "Londa",
+      "geslachtsnaam": "Hedberg",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-116"
+  },
+  {
+    "kvkNummer": "90003268",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "18-01-1942",
+      "voornamen": "Maynard",
+      "geslachtsnaam": "Hankinson",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-117"
+  },
+  {
+    "kvkNummer": "90003268",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "11-09-1970",
+      "voornamen": "Polly",
+      "geslachtsnaam": "Mirabito",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-118"
+  },
+  {
+    "kvkNummer": "90003284",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "02-07-1992",
+      "voornamen": "Kelvin",
+      "geslachtsnaam": "Tokarz",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-119"
+  },
+  {
+    "kvkNummer": "90003365",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "03-08-1966",
+      "voornamen": "Leda",
+      "geslachtsnaam": "Beus",
+      "voorvoegselGeslachtsnaam": "van der",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-120"
+  },
+  {
+    "kvkNummer": "90003365",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "09-01-1946",
+      "voornamen": "Hisako",
+      "geslachtsnaam": "Litwin",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-121"
+  },
+  {
+    "kvkNummer": "90003403",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "12-05-1949",
+      "voornamen": "Katelin",
+      "geslachtsnaam": "Philipi - Gordy",
+      "type": "Bevoegde"
+    },
+    "id": "id-122"
+  },
+  {
+    "kvkNummer": "90003411",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "17-01-1951",
+      "voornamen": "Ailene",
+      "geslachtsnaam": "Arbuckle",
+      "type": "Bevoegde"
+    },
+    "id": "id-123"
+  },
+  {
+    "kvkNummer": "90003438",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "11-04-1960",
+      "voornamen": "Ria",
+      "geslachtsnaam": "Niemiec",
+      "type": "Bevoegde"
+    },
+    "id": "id-124"
+  },
+  {
+    "kvkNummer": "90003446",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Commanditaire Vennootschap",
+    "functionaris": {
+      "geboortedatum": "12-05-1949",
+      "voornamen": "Katelin",
+      "geslachtsnaam": "Gordy - Gordy",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Onbeperkt bevoegd"
+    },
+    "id": "id-125"
+  },
+  {
+    "kvkNummer": "90003446",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Commanditaire Vennootschap",
+    "functionaris": {
+      "geboortedatum": "14-07-1960",
+      "voornamen": "Kathie",
+      "geslachtsnaam": "Andry",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Beperkte volmacht"
+    },
+    "id": "id-126"
+  },
+  {
+    "kvkNummer": "90003447",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Commanditaire Vennootschap",
+    "functionaris": {
+      "geboortedatum": "14-07-1960",
+      "voornamen": "Kothie",
+      "geslachtsnaam": "Andry",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Volledige volmacht"
+    },
+    "id": "id-126a"
+  },
+  {
+    "kvkNummer": "90003578",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "25-11-1955",
+      "voornamen": "Cornell",
+      "geslachtsnaam": "Barge",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-127"
+  },
+  {
+    "kvkNummer": "90003705",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "14-06-1992",
+      "voornamen": "Kalyn",
+      "geslachtsnaam": "Merriman",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-128"
+  },
+  {
+    "kvkNummer": "90003705",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "01-06-1994",
+      "voornamen": "Jasmine",
+      "geslachtsnaam": "Wurst - van der Wurst",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-129"
+  },
+  {
+    "kvkNummer": "90003705",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "24-10-1941",
+      "voornamen": "Nakia",
+      "geslachtsnaam": "Blundell",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-130"
+  },
+  {
+    "kvkNummer": "90003705",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "11-10-1969",
+      "voornamen": "Alfredia",
+      "geslachtsnaam": "Sheeran",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-131"
+  },
+  {
+    "kvkNummer": "90003764",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "16-01-1995",
+      "voornamen": "Myriam",
+      "geslachtsnaam": "Mersch",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-132"
+  },
+  {
+    "kvkNummer": "90003802",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "11-07-1958",
+      "voornamen": "Polly",
+      "geslachtsnaam": "Mirabito",
+      "voorvoegselGeslachtsnaam": "van der",
+      "type": "Bevoegde"
+    },
+    "id": "id-133"
+  },
+  {
+    "kvkNummer": "90003853",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging van Eigenaars",
+    "functionaris": {
+      "geboortedatum": "01-06-1965",
+      "voornamen": "Ehtel",
+      "geslachtsnaam": "Chrzanowski",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-134"
+  },
+  {
+    "kvkNummer": "90003853",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging van Eigenaars",
+    "functionaris": {
+      "geboortedatum": "10-08-1985",
+      "voornamen": "Keri",
+      "geslachtsnaam": "Mcgary",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-135"
+  },
+  {
+    "kvkNummer": "90003853",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging van Eigenaars",
+    "functionaris": {
+      "geboortedatum": "29-04-1979",
+      "voornamen": "Frances",
+      "geslachtsnaam": "Ashley",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-136"
+  },
+  {
+    "kvkNummer": "90003853",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging van Eigenaars",
+    "functionaris": {
+      "geboortedatum": "20-06-1968",
+      "voornamen": "Ocie",
+      "geslachtsnaam": "Whittington",
+      "voorvoegselGeslachtsnaam": "van den",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-137"
+  },
+  {
+    "kvkNummer": "90003853",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging van Eigenaars",
+    "functionaris": {
+      "geboortedatum": "16-08-1957",
+      "voornamen": "Raymundo",
+      "geslachtsnaam": "Snay",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-138"
+  },
+  {
+    "kvkNummer": "90003888",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "11-01-1958",
+      "voornamen": "Karla",
+      "geslachtsnaam": "Spagnolo",
+      "type": "Bevoegde"
+    },
+    "id": "id-139"
+  },
+  {
+    "kvkNummer": "90003969",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Rederij",
+    "functionaris": {
+      "geboortedatum": "01-08-1996",
+      "voornamen": "Marcell",
+      "geslachtsnaam": "Leite",
+      "type": "Bevoegde"
+    },
+    "id": "id-141"
+  },
+  {
+    "kvkNummer": "90003969",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Rederij",
+    "functionaris": {
+      "geboortedatum": "06-07-1942",
+      "voornamen": "Jerrod",
+      "geslachtsnaam": "Koerber",
+      "type": "Bevoegde"
+    },
+    "id": "id-142"
+  },
+  {
+    "kvkNummer": "90003969",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Rederij",
+    "functionaris": {
+      "geboortedatum": "01-03-1993",
+      "voornamen": "Jimmie",
+      "geslachtsnaam": "Loftus - van de Loftus",
+      "type": "Bevoegde"
+    },
+    "id": "id-143"
+  },
+  {
+    "kvkNummer": "90003969",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Rederij",
+    "functionaris": {
+      "geboortedatum": "14-10-1950",
+      "voornamen": "Alysia",
+      "geslachtsnaam": "Schier",
+      "type": "Bevoegde"
+    },
+    "id": "id-145"
+  },
+  {
+    "kvkNummer": "90003969",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Rederij",
+    "functionaris": {
+      "geboortedatum": "15-07-1977",
+      "voornamen": "Danna",
+      "geslachtsnaam": "Sink",
+      "type": "Bevoegde"
+    },
+    "id": "id-146"
+  },
+  {
+    "kvkNummer": "90004000",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Commanditaire Vennootschap",
+    "functionaris": {
+      "geboortedatum": "13-11-1982",
+      "voornamen": "Georgianna",
+      "geslachtsnaam": "Mcmeen",
+      "voorvoegselGeslachtsnaam": "van den",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Onbeperkt bevoegd"
+    },
+    "id": "id-147"
+  },
+  {
+    "kvkNummer": "90004019",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "25-10-1985",
+      "voornamen": "Blair",
+      "geslachtsnaam": "Gagnon",
+      "type": "Bevoegde"
+    },
+    "id": "id-148"
+  },
+  {
+    "kvkNummer": "90004140",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "05-04-1976",
+      "voornamen": "Dagny",
+      "geslachtsnaam": "Matthies",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-149"
+  },
+  {
+    "kvkNummer": "90004302",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "28-12-1972",
+      "voornamen": "Kamala",
+      "geslachtsnaam": "Brugh",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-150"
+  },
+  {
+    "kvkNummer": "90004302",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "27-01-1981",
+      "voornamen": "Marquitta",
+      "geslachtsnaam": "Moree",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-151"
+  },
+  {
+    "kvkNummer": "90004329",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "30-09-1984",
+      "voornamen": "Dodie",
+      "geslachtsnaam": "Levan",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-152"
+  },
+  {
+    "kvkNummer": "90004329",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "24-04-1990",
+      "voornamen": "Jasmin",
+      "geslachtsnaam": "Quinney",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-153"
+  },
+  {
+    "kvkNummer": "90004329",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "21-04-1980",
+      "voornamen": "Terry",
+      "geslachtsnaam": "Mesa",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-154"
+  },
+  {
+    "kvkNummer": "90004353",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "01-04-1984",
+      "voornamen": "Cristal",
+      "geslachtsnaam": "Miedema",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-156"
+  },
+  {
+    "kvkNummer": "90004353",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "15-04-1959",
+      "voornamen": "Terresa",
+      "geslachtsnaam": "Mcclane - Mcclane",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-157"
+  },
+  {
+    "kvkNummer": "90004361",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "16-02-1989",
+      "voornamen": "Cyrstal",
+      "geslachtsnaam": "Nickols - Nickols",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-158"
+  },
+  {
+    "kvkNummer": "90004361",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "10-07-1948",
+      "voornamen": "Madaline",
+      "geslachtsnaam": "Vartanian - van Vartanian",
+      "voorvoegselGeslachtsnaam": "van",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-159"
+  },
+  {
+    "kvkNummer": "90004418",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "25-01-1950",
+      "voornamen": "Lionel",
+      "geslachtsnaam": "Sussman",
+      "voorvoegselGeslachtsnaam": "Le",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-160"
+  },
+  {
+    "kvkNummer": "90004418",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "05-03-1947",
+      "voornamen": "Leanora",
+      "geslachtsnaam": "Waymire",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-161"
+  },
+  {
+    "kvkNummer": "90004418",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "07-07-1954",
+      "voornamen": "Kandi",
+      "geslachtsnaam": "Nord",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-162"
+  },
+  {
+    "kvkNummer": "90004418",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "18-10-1989",
+      "voornamen": "Kenya",
+      "geslachtsnaam": "Saeger",
+      "voorvoegselGeslachtsnaam": "ten",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-163"
+  },
+  {
+    "kvkNummer": "90004418",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "06-01-1980",
+      "voornamen": "Santo",
+      "geslachtsnaam": "Kalb",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-164"
+  },
+  {
+    "kvkNummer": "90004418",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "19-01-1965",
+      "voornamen": "Woodrow",
+      "geslachtsnaam": "Creason",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-165"
+  },
+  {
+    "kvkNummer": "90004426",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "29-09-1960",
+      "voornamen": "Graciela",
+      "geslachtsnaam": "Folsom",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-166"
+  },
+  {
+    "kvkNummer": "90004426",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "05-01-1967",
+      "voornamen": "Beryl",
+      "geslachtsnaam": "Tegeler - de Tegeler",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-167"
+  },
+  {
+    "kvkNummer": "90004426",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "18-07-1991",
+      "voornamen": "Geoffrey",
+      "geslachtsnaam": "Meininger",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-169"
+  },
+  {
+    "kvkNummer": "90004426",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "21-02-1975",
+      "voornamen": "Maricela",
+      "geslachtsnaam": "Lorraine",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-170"
+  },
+  {
+    "kvkNummer": "90004485",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "23-08-1981",
+      "voornamen": "Bethany",
+      "geslachtsnaam": "Polasek",
+      "type": "Bevoegde"
+    },
+    "id": "id-171"
+  },
+  {
+    "kvkNummer": "90004493",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "25-09-1953",
+      "voornamen": "Hue",
+      "geslachtsnaam": "Sebree",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-172"
+  },
+  {
+    "kvkNummer": "90004515",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "15-05-1949",
+      "voornamen": "Brad",
+      "geslachtsnaam": "Saville",
+      "voorvoegselGeslachtsnaam": "van de",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-173"
+  },
+  {
+    "kvkNummer": "90004515",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "26-11-1965",
+      "voornamen": "Virgie",
+      "geslachtsnaam": "Clouse",
+      "voorvoegselGeslachtsnaam": "van de",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-174"
+  },
+  {
+    "kvkNummer": "90004523",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "16-01-1961",
+      "voornamen": "Abel",
+      "geslachtsnaam": "Seville",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-175"
+  },
+  {
+    "kvkNummer": "90004523",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "09-11-1995",
+      "voornamen": "Maia",
+      "geslachtsnaam": "Carstarphen",
+      "voorvoegselGeslachtsnaam": "de",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-176"
+  },
+  {
+    "kvkNummer": "90004639",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "20-08-1942",
+      "voornamen": "Georgene",
+      "geslachtsnaam": "Propp",
+      "type": "Gemachtigde",
+      "typeVolmacht": "Beperkte volmacht"
+    },
+    "id": "id-177"
+  },
+  {
+    "kvkNummer": "90004655",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "15-11-1942",
+      "voornamen": "Damon",
+      "geslachtsnaam": "Pelchat",
+      "type": "Bevoegde"
+    },
+    "id": "id-178"
+  },
+  {
+    "kvkNummer": "90004671",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "16-10-1957",
+      "voornamen": "Janice",
+      "geslachtsnaam": "Erby",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-179"
+  },
+  {
+    "kvkNummer": "90004671",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Vennootschap Onder Firma",
+    "functionaris": {
+      "geboortedatum": "21-11-1992",
+      "voornamen": "Cammie",
+      "geslachtsnaam": "Konopka",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-180"
+  },
+  {
+    "kvkNummer": "90004809",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Maatschap",
+    "functionaris": {
+      "geboortedatum": "18-07-1972",
+      "voornamen": "Norene",
+      "geslachtsnaam": "Elling",
+      "voorvoegselGeslachtsnaam": "van der",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-181"
+  },
+  {
+    "kvkNummer": "90004809",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Maatschap",
+    "functionaris": {
+      "geboortedatum": "21-12-1965",
+      "voornamen": "Arnold",
+      "geslachtsnaam": "Toomer",
+      "voorvoegselGeslachtsnaam": "de",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Beperkt bevoegd"
+    },
+    "id": "id-182"
+  },
+  {
+    "kvkNummer": "90004825",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "29-10-1988",
+      "voornamen": "Nohemi",
+      "geslachtsnaam": "Pergande",
+      "voorvoegselGeslachtsnaam": "de",
+      "type": "Bevoegde"
+    },
+    "id": "id-183"
+  },
+  {
+    "kvkNummer": "90004949",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Europees economisch samenwerkingsverband",
+    "functionaris": {
+      "geboortedatum": "23-07-1949",
+      "voornamen": "Hai",
+      "geslachtsnaam": "Lapine",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-184"
+  },
+  {
+    "kvkNummer": "90004949",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Europees economisch samenwerkingsverband",
+    "functionaris": {
+      "geboortedatum": "11-10-1971",
+      "voornamen": "Beverly",
+      "geslachtsnaam": "Everts",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-185"
+  },
+  {
+    "kvkNummer": "90005058",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "22-04-1984",
+      "voornamen": "Luke",
+      "geslachtsnaam": "Kohen",
+      "type": "Bevoegde"
+    },
+    "id": "id-186"
+  },
+  {
+    "kvkNummer": "90005090",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "06-08-1966",
+      "voornamen": "Betsy",
+      "geslachtsnaam": "Arpin",
+      "type": "Bevoegde"
+    },
+    "id": "id-187"
+  },
+  {
+    "kvkNummer": "90005120",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "24-07-1992",
+      "voornamen": "Bethany",
+      "geslachtsnaam": "Polasek",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-188"
+  },
+  {
+    "kvkNummer": "90005120",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "12-02-1963",
+      "voornamen": "Yoshie",
+      "geslachtsnaam": "Stoltz - Stoltz",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-189"
+  },
+  {
+    "kvkNummer": "90005120",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "27-05-1971",
+      "voornamen": "Lovetta",
+      "geslachtsnaam": "Mccarron",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-190"
+  },
+  {
+    "kvkNummer": "90005120",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "13-01-1951",
+      "voornamen": "Rosalee",
+      "geslachtsnaam": "Vandegrift",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-191"
+  },
+  {
+    "kvkNummer": "90005120",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "21-12-1980",
+      "voornamen": "Graham",
+      "geslachtsnaam": "Blair",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-192"
+  },
+  {
+    "kvkNummer": "90005120",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "16-08-1989",
+      "voornamen": "Dwana",
+      "geslachtsnaam": "Macleod",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-193"
+  },
+  {
+    "kvkNummer": "90005120",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "04-09-1991",
+      "voornamen": "Damon",
+      "geslachtsnaam": "Pelchat",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-194"
+  },
+  {
+    "kvkNummer": "90005120",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "02-03-1951",
+      "voornamen": "Cassondra",
+      "geslachtsnaam": "Hinnenkamp",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-195"
+  },
+  {
+    "kvkNummer": "90005120",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "25-06-1968",
+      "voornamen": "Pennie",
+      "geslachtsnaam": "Fleeman",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-196"
+  },
+  {
+    "kvkNummer": "90005120",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "11-02-1973",
+      "voornamen": "Jesusita",
+      "geslachtsnaam": "Marotz",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-197"
+  },
+  {
+    "kvkNummer": "90005120",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Stichting",
+    "functionaris": {
+      "geboortedatum": "20-07-1989",
+      "voornamen": "Vinita",
+      "geslachtsnaam": "Noonkester",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-198"
+  },
+  {
+    "kvkNummer": "90005171",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Besloten Vennootschap",
+    "functionaris": {
+      "geboortedatum": "16-04-1984",
+      "voornamen": "Carmelina",
+      "geslachtsnaam": "Essex",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-199"
+  },
+  {
+    "kvkNummer": "90005368",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "05-05-1962",
+      "voornamen": "Cyrstal",
+      "geslachtsnaam": "Nickols",
+      "type": "Bevoegde"
+    },
+    "id": "id-200"
+  },
+  {
+    "kvkNummer": "90005392",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging van Eigenaars",
+    "functionaris": {
+      "geboortedatum": "03-10-1985",
+      "voornamen": "Raye",
+      "geslachtsnaam": "Apodaca",
+      "voorvoegselGeslachtsnaam": "van de",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-201"
+  },
+  {
+    "kvkNummer": "90005392",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging van Eigenaars",
+    "functionaris": {
+      "geboortedatum": "06-05-1971",
+      "voornamen": "Rudolph",
+      "geslachtsnaam": "Daye",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Alleen/zelfstandig bevoegd"
+    },
+    "id": "id-202"
+  },
+  {
+    "kvkNummer": "90005392",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging van Eigenaars",
+    "functionaris": {
+      "geboortedatum": "22-10-1985",
+      "voornamen": "Jefferson",
+      "geslachtsnaam": "Atterberry",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-203"
+  },
+  {
+    "kvkNummer": "90005422",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "12-10-1975",
+      "voornamen": "Rosalinda",
+      "geslachtsnaam": "Rambin",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-204"
+  },
+  {
+    "kvkNummer": "90005422",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "28-09-1983",
+      "voornamen": "Sindy",
+      "geslachtsnaam": "Schrum",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-205"
+  },
+  {
+    "kvkNummer": "90005422",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "15-11-1942",
+      "voornamen": "Lelia",
+      "geslachtsnaam": "Massingill",
+      "voorvoegselGeslachtsnaam": "de",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-206"
+  },
+  {
+    "kvkNummer": "90005422",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "22-10-1990",
+      "voornamen": "Yaeko",
+      "geslachtsnaam": "Folk",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-207"
+  },
+  {
+    "kvkNummer": "90005422",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "13-05-1984",
+      "voornamen": "Mendy",
+      "geslachtsnaam": "Soucy",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-208"
+  },
+  {
+    "kvkNummer": "90005422",
+    "typeRechtsvorm": "Rechtspersoon",
+    "rechtsvorm": "Vereniging",
+    "functionaris": {
+      "geboortedatum": "23-02-1972",
+      "voornamen": "Irma",
+      "geslachtsnaam": "Keppler",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Gezamenlijk bevoegd"
+    },
+    "id": "id-209"
+  },
+  {
+    "kvkNummer": "90005430",
+    "typeRechtsvorm": "Eenmanszaak",
+    "rechtsvorm": "Eenmanszaak",
+    "functionaris": {
+      "geboortedatum": "28-06-1961",
+      "voornamen": "Miguel",
+      "geslachtsnaam": "Hyppolite",
+      "type": "Bevoegde"
+    },
+    "id": "id-210"
+  },
+  {
+    "kvkNummer": "90005449",
+    "typeRechtsvorm": "Samenwerkingsverband",
+    "rechtsvorm": "Commanditaire Vennootschap",
+    "functionaris": {
+      "geboortedatum": "12-02-1947",
+      "voornamen": "Eduardo",
+      "geslachtsnaam": "Lohr",
+      "voorvoegselGeslachtsnaam": "van de",
+      "type": "Bevoegde",
+      "soortBevoegdheid": "Onbeperkt bevoegd"
+    },
+    "id": "id-211"
+  }
+]

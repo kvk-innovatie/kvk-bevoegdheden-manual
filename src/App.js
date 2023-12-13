@@ -3,6 +3,7 @@ import styles from './App.module.css';
 import Header from './components/header';
 import TargetGroup from './components/target-group';
 import Home from './components/home';
+import Wallet from './components/wallet';
 import Disclaimer from './components/disclaimer';
 import usePageTracking from './usePageTracking';
 import { Routes, Route, Navigate } from 'react-router-dom';
@@ -15,6 +16,7 @@ function App() {
       <div className={styles.routeContainer}>
         <Routes>
           <Route path="/" element={<Home />}></Route>
+          <Route path="/wallet" element={<Wallet />}></Route>
           <Route path="/:target/*" element={<TargetGroup />}></Route>
           <Route path="*" element={<Navigate replace to="/" />} />
         </Routes>
